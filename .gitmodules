@@ -1,0 +1,6 @@
+[submodule "Nodejs_BE"]
+	path = Nodejs_BE
+	url = https://github.com/heesane/NodeJS_BE.git
+[submodule "BrainWheel_BE"]
+	path = BrainWheel_BE
+	url = https://github.com/heesane/BrainWheel_BE.git

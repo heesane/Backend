@@ -167,3 +167,4 @@ cython_debug/
 /FastAPI/migrations/
 /FastAPI/__pycache__/
 /FastAPI/py/
+/Django

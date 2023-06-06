@@ -160,11 +160,13 @@ cython_debug/
 #.idea/
 
 # Edit
-/board/migrations/
-/board/__pycache__/
-/board/myapi.db
-/board/myvenv/
-/FastAPI/migrations/
-/FastAPI/__pycache__/
-/FastAPI/py/
+/*/migrations/
+/*/__pycache__/
+/*/myapi.db
+/*/myvenv/
+/*/py
+/*/.vscode/
+
 /Django
+
+/*/alembic.ini

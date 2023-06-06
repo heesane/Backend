@@ -160,14 +160,14 @@ cython_debug/
 #.idea/
 
 # Edit
-/*/migrations/
-/*/rest/
-/*/__pycache__/
-/*/myapi.db
-/*/myvenv/
+migrations/
+rest/
+__pycache__/
+/*/*myapi.db
+myvenv/
 /*/py
-/*/.vscode/
+.vscode/
 /*/alembic.ini
 /Django
-
+/test_init/
 /*/alembic.ini

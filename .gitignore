@@ -161,12 +161,13 @@ cython_debug/
 
 # Edit
 /*/migrations/
+/*/rest/
 /*/__pycache__/
 /*/myapi.db
 /*/myvenv/
 /*/py
 /*/.vscode/
-
+/*/alembic.ini
 /Django
 
 /*/alembic.ini
